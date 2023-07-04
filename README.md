@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yudi Hertanto</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyudii&label=Profile%20views&color=0e75b6&style=flat" alt="tanyudii" /> </p>
-
 - 🔭 I’m currently working on **Ruangguru**
 
 - 👨‍💻 All of my projects are available at [https://tanyudii.me/projects](https://tanyudii.me/projects)
