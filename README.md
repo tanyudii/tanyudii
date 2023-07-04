@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **frontend or backend development**
 
-- 📫 How to reach me **y.hertanto17@gmail.com**
-
 - 📄 Know about my experiences [https://tanyudii.me/experiences](https://tanyudii.me/experiences)
 
 <h3 align="left">Connect with me:</h3>
