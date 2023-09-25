@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yudi Hertanto</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Ruangguru**
+- 🔭 I’m currently working on **Vodea**
 
 - 👨‍💻 All of my projects are available at [https://tanyudii.me/projects](https://tanyudii.me/projects)
 
