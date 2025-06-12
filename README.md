@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanyudii.me/projects](https://tanyudii.me/projects)
 
-- 📝 I regularly write articles on [https://tanyudii.me/blogs](https://tanyudii.me/blogs)
+- 📝 I regularly write articles on [https://blog.tanyudii.me](https://blog.tanyudii.me)
 
 - 💬 Ask me about **frontend & backend development**
 
